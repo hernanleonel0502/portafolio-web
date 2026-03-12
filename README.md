@@ -24,5 +24,6 @@ Especializado en hardware, electricidad industrial, mantenimiento sistemático y
 ### 📫 Contacto y Enlaces
 
 * 💼 **LinkedIn:** [linkedin.com/in/chaves-hernan](https://linkedin.com/in/chaves-hernan/)
-* 🌐 **Portafolio Web:** [Visita mi sitio web](https://hernan-chaves.vercel.app) *(Nota: Actualiza este link con el de Vercel definitivo)*
+* 🌐 **Portafolio Web:** [Visita mi sitio web](https://hc-portafolio-tecnico.vercel.app/)
 * ✉️ **Email:** chaveshernanleonel@gmail.com
+
